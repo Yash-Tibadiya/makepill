@@ -21,11 +21,11 @@ To view or modify the Makepill website locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/makepill-website.git
+    git clone https://github.com/Yash-Tibadiya/makepill.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd makepill-website
+    cd makepill
     ```
 3. **Open the `index.html` file** in your preferred browser to view the website.
 
